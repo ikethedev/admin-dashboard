@@ -217,7 +217,6 @@ h1{
 
 .section_right{
     padding: 0 .7em 0;
-    width: 70%;
     margin: auto;
     display: flex;
     flex-direction: column;
