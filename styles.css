@@ -93,7 +93,7 @@ article{
     grid-template-rows: repeat(1, .5fr) repeat(2, 1fr);
     padding: 2em;
     gap: .5em;
-    
+    height: 80vh;
 }
 
 
